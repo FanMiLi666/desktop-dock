@@ -1,16 +1,16 @@
 # Desktop Dock
 
-一个轻量 macOS 桌面 Dock 工具。
+一个轻量的 macOS 桌面 Dock 工具，用来辅助个人桌面工作流。
 
-[Download Latest Release](https://github.com/FanMiLi666/desktop-dock/releases/latest)
+[下载最新版](https://github.com/FanMiLi666/desktop-dock/releases/latest)
 
-## Features
+## 功能
 
 - 轻量桌面 Dock 工具
 - 后台运行
 - 适合个人桌面工作流
 
-## App
+## 应用信息
 
 - 名称：Desktop Dock
 - 版本：0.1.0
@@ -23,6 +23,6 @@
 2. 将 `Desktop Dock.app` 拖到 `Applications` 文件夹。
 3. 双击打开应用。
 
-## Notes
+## 说明
 
 当前仓库保存的是已打包的 `.app` 应用包，不包含完整源码工程。
